@@ -47,7 +47,7 @@ The goal is to filter out the bad signals as much as possible from the rest.
 Algorithmic-Price-Smoothing-With-Advanced-Kalman-Filtering/
 │
 ├── data/
-│   └── XAUUSD_M5.csv
+│   └── XAUUSD_1m.csv
 │
 ├── notebooks/
 │   ├── 01_eda_and_correlation.ipynb
