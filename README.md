@@ -41,7 +41,9 @@ The goal is to filter out the bad signals as much as possible from the rest.
 5. Explainability and Robustness Report
 
 ---
+# Project Structure
 
+```text
 Algorithmic-Price-Smoothing-With-Advanced-Kalman-Filtering/
 │
 ├── data/
@@ -72,3 +74,4 @@ Algorithmic-Price-Smoothing-With-Advanced-Kalman-Filtering/
 ├── main.py                               # mlflow.start_run()
 ├── Docker-file                           # Containerization
 └── requirements.txt
+```
