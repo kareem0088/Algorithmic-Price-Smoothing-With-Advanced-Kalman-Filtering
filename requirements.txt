@@ -1,0 +1,14 @@
+pandas==2.3.3
+numpy==2.1.3
+
+mlflow==3.9.0
+
+scikit-learn==1.6.1
+xgboost==3.1.2
+
+scipy==1.15.3
+seaborn==0.13.2
+tqdm==4.67.1
+
+vectorbt==0.28.2
+
